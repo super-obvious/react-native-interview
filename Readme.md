@@ -4,7 +4,7 @@
 
 ### About this process
 
-* This is a basic mobile app on React Native written in TypeSript
+* This is a basic mobile app on React Native written in TypeScript
 * ~ 45 min pairing exercise, to simulate a real working environment
 * Goal is to complete some missing functionality in the app.
 * Focus on code quality, you're the owner of the code. Don't be scared to suggest better solutions ☺️
