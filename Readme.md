@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to Super Obvious interview 👋
 
-###About this process
+### About this process
 
 * This is a basic mobile app on React Native written in TypeSript
 * ~ 45 min pairing exercise, to simulate a real working environment
@@ -17,4 +17,4 @@
 * [Optional] - show historical data on another screen
 
 
-###Have fun!
+### Have fun!
